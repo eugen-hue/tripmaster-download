@@ -11,6 +11,7 @@ GPS-Tripmaster für Rallyes, Touristik- und Oldtimer-Ausfahrten – große, gut 
 | 📱 **App (Android)** | **[Tripmaster.apk herunterladen](https://github.com/eugen-hue/tripmaster-download/releases/latest/download/Tripmaster.apk)** |
 | 📖 **Bedienungsanleitung** | **[Tripmaster-Anleitung.pdf](https://github.com/eugen-hue/tripmaster-download/releases/latest/download/Tripmaster-Anleitung.pdf)** |
 | 📝 **Was ist neu?** | [Alle Versionen](https://github.com/eugen-hue/tripmaster-download/releases) |
+| 🔒 **Datenschutz** | [Datenschutzerklärung](https://eugen360.de/tripmaster-datenschutz.html) |
 
 Die Links zeigen immer auf die **neueste Version**.
 
@@ -38,3 +39,5 @@ Bitte vor jeder Veranstaltung in der Ausschreibung prüfen, ob GPS-Tripmaster un
 ---
 
 Entwickelt von [eugen360.de](https://eugen360.de) · Fragen, OBD2-Dongle oder Radsensor für Oldtimer auf Anfrage.
+
+[Datenschutzerklärung](https://eugen360.de/tripmaster-datenschutz.html) · [Impressum](https://eugen360.de/index.php?page=impressum)
